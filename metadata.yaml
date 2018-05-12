@@ -1,0 +1,36 @@
+_repo: Scientific-Culture-and-Other-EssaysSecond-Edition--with-Additions_37427
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cooke, Josiah P., Jr. (Josiah Parsons)
+    aliases:
+    - Cooke, Josiah Parsons
+    - Cooke, Josiah Parsons, Jr.
+    birthdate: 1827
+    deathdate: 1894
+    gutenberg_agent_id: '38838'
+    url: http://www.gutenberg.org/2009/agents/38838
+description: ''
+gutenberg_issued: '2011-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Science'
+tableOfContents: Scientific culture -- The nobility of knowledge -- The elementary
+  teaching of physical science -- The radiometer -- Memoir of Thomas Graham -- Memoir
+  of William Hallowes Miller -- William Barton Rogers -- Jean-Baptiste-André Dumas
+  -- The Greek question -- Further remarks on the Greek question -- Scientific culture;
+  its spirit, its aim, and its methods -- "Noblesse oblige" -- The spiritual life.
+title: 'Scientific Culture, and Other Essays
+
+  Second Edition; with Additions'
+url: http://www.gutenberg.org/ebooks/37427
