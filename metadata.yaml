@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'Q'
 - !lcsh 'Science'
+- GITenberg
 tableOfContents: Scientific culture -- The nobility of knowledge -- The elementary
   teaching of physical science -- The radiometer -- Memoir of Thomas Graham -- Memoir
   of William Hallowes Miller -- William Barton Rogers -- Jean-Baptiste-André Dumas
